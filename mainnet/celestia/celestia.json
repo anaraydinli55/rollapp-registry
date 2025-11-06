@@ -11,7 +11,7 @@
         {
             "displayDenom": "TIA",
             "baseDenom": "utia",
-            "decimals": 6,
+            "decimals": 16,
             "logo": "/logos/celestia-logo-purple.svg",
             "type": "main"
         }
